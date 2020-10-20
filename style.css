@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+
+  /* h1 {
+    text-align: center;
+    margin: 0px auto;
+    display; block;
+
+  } */
+}
+canvas {
+  display: block;
+}
